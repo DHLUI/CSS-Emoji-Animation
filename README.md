@@ -4,13 +4,13 @@
 
 This is an animation made by HTML/CSS.
 
-### [View the demo here →]()
-
 If you like this Emoji .You can get the code.
 
 ```
 git clone https://github.com/DHLUI/DHL-Blog-designer.git
 ```
+#### You can also download the “index.html” file to check the animation progress. I have already add the css style into the html file.
+
 
 Below is the main CSS part:
 
@@ -183,8 +183,6 @@ Below is the main CSS part:
     }
     
 ```      
-
-Hope you like.
 
 
 ## License
