@@ -15,7 +15,7 @@ git clone https://github.com/DHLUI/CSS-Emoji-Animation.git
 
 
 
-# You can also download the “index.html” file to check the animation progress. I have already add the css style into the html file.
+#### You can also download the “index.html” file to check the animation progress. I have already add the css style into the html file.
 
 
 Below is the main CSS part:
