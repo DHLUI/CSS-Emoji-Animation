@@ -3,7 +3,7 @@
 ![pic](https://raw.githubusercontent.com/DHLUI/CSS-Emoji-Animation/master/Cute-Emoji-Animation.png)
 
 
-# [View The Demo Here →](http://htmlpreview.github.io/?https://github.com/DHLUI/CSS-Emoji-Animation/blob/master/index.html)
+# [View The Animation Effect Here →](http://htmlpreview.github.io/?https://github.com/DHLUI/CSS-Emoji-Animation/blob/master/index.html)
 
 This is an animation made by HTML/CSS.
 
@@ -15,7 +15,7 @@ git clone https://github.com/DHLUI/CSS-Emoji-Animation.git
 
 
 
-#### You can also download the “index.html” file to check the animation progress. I have already add the css style into the html file.
+# You can also download the “index.html” file to check the animation progress. I have already add the css style into the html file.
 
 
 Below is the main CSS part:
