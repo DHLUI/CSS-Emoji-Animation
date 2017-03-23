@@ -7,7 +7,7 @@ This is an animation made by HTML/CSS.
 If you like this Emoji .You can get the code.
 
 ```
-git clone https://github.com/DHLUI/DHL-Blog-designer.git
+git clone https://github.com/DHLUI/CSS-Emoji-Animation.git
 ```
 
 
